@@ -61,10 +61,9 @@ export default {
 }
 
 header {
-  background-color: #734f96;
+  background-color: #41b883;
   padding: 20px;
   color: white;
-  font-family: Georgia;
 }
 
 main {
@@ -74,13 +73,13 @@ main {
 }
 
 section {
-  margin: 50px;
+  margin: 20px;
 }
 
 button {
-  background-color: #6f42c1;
+  background-color: #41b883;
   color: white;
-  padding: 5px;
+  padding: 10px;
   cursor: pointer;
   border: none;
   border-radius: 5px;
